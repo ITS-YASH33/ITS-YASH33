@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ITS-YASH33
-- 👀 I’m interested in ...LINUX AND SHELL SCRIPTING, TROUBLESHOOTING NETWORKS 
+- 👀 I’m interested in ... LINUX AND SHELL SCRIPTING, TROUBLESHOOTING NETWORKS.
 - 🌱 I’m currently learning ...B.TECH IN COMPUTER SCIENCE AND ENGINEERING IN CYBER SECURITY FROM SHRI RAMDEOBABA COLLEGE OF ENGINEERING.
 - 💞️ I’m looking to collaborate with other SITE RELIABILITY ENGINEERS.  
 - 📫 How to reach me ...yashpise50@gmail.com
